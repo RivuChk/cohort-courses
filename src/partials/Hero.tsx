@@ -10,53 +10,73 @@ const Hero = () => (
     <HeroAvatar
       title={
         <>
-          Hi there, I'm <GradientText>Ixartz</GradientText> 👋
+          Hi there, I'm <GradientText>Rivu Chakraborty</GradientText> 👋
         </>
       }
       description={
         <>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            malesuada
+          <a
+            className="text-cyan-400 hover:underline"
+            href="https://developers.google.com/profile/u/rivuchk"
+            target="_blank"
+          >
+            India's first GDE (Google Developers Expert) for Kotlin.
           </a>{' '}
-          nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            consectetur
+          A Software Engineer with over a decade of Industry Experience. A{' '}
+          <a
+            className="text-cyan-400 hover:underline"
+            href="https://sessionize.com/rivu-chakraborty/"
+            target="_blank"
+          >
+            speaker
+          </a>
+          ,{' '}
+          <a
+            className="text-cyan-400 hover:underline"
+            href="https://www.goodreads.com/author/list/17062937.Rivu_Chakraborty"
+            target="_blank"
+          >
+            author with multiple published Kotlin and Android Books.
           </a>{' '}
-          adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+          And a community person.
+          <br />
+          Over the years, I've worked with numerous startups, including major
+          unicorns from India and South-East Asia, as listed below.
+          <br />
+          <ul className="list-inside list-disc">
+            <li> Current: Android Architect / Senior Manager @ JioCinema </li>
+            <li> Ex: Lead Android @ Meesho </li>
+            <li> Ex: Senior Product Engineer @ Gojek </li>
+            <li> Ex: Android Architect @ Paytm (Chat, Movies, Insider) </li>
+            <li> Ex: Senior Software Engineer @ Byju's </li>
+          </ul>
         </>
       }
       avatar={
         <img
-          className="h-80 w-64"
-          src="/assets/images/avatar.svg"
-          alt="Avatar image"
+          className="h-80 w-80"
+          src="/assets/images/rivu-gde.webp"
+          alt="Rivu Chakraborty"
           loading="lazy"
         />
       }
       socialButtons={
         <>
-          <a href="/">
+          <a href="https://twitter.com/@RivuChakraborty" target="_blank">
             <HeroSocial
-              src="/assets/images/twitter-icon.png"
+              src="/assets/images/x-twitter-dark.svg"
               alt="Twitter icon"
             />
           </a>
-          <a href="/">
+          <a href="https://www.linkedin.com/in/rivuchk" target="_blank">
             <HeroSocial
-              src="/assets/images/facebook-icon.png"
-              alt="Facebook icon"
-            />
-          </a>
-          <a href="/">
-            <HeroSocial
-              src="/assets/images/linkedin-icon.png"
+              src="/assets/images/linkedin-dark.svg"
               alt="Linkedin icon"
             />
           </a>
-          <a href="/">
+          <a href="https://www.youtube.com/@rivutalks" target="_blank">
             <HeroSocial
-              src="/assets/images/youtube-icon.png"
+              src="/assets/images/youtube-dark.svg"
               alt="Youtube icon"
             />
           </a>
