@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="980c47d1-1c2b-4eff-b0df-dfc807ff0bce" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/courses/jetpack-compose.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/courses/jetpack-compose.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/partials/BlogPost.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/BlogPost.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/partials/CourseRegistration.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/CourseRegistration.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +76,7 @@
       <updated>1694400396878</updated>
       <workItem from="1694400398012" duration="7910000" />
       <workItem from="1694410908166" duration="625000" />
-      <workItem from="1694411545873" duration="18456000" />
+      <workItem from="1694411545873" duration="18670000" />
     </task>
     <servers />
   </component>

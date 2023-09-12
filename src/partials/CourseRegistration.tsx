@@ -6,22 +6,22 @@ const CourseRegistration = (props: IFrontmatter) => (
     <form name="register-compose" method="POST" data-netlify="true">
       <p>
         <label>
-          Your Name:<br/> <input type="text" name="name" required />
+          Your Name:<br/> <input type="text" name="name" className="text-cyan-400 w-80" required />
         </label>
       </p>
       <p>
         <label>
-          Your Email:<br/> <input type="email" name="email" required />
+          Your Email:<br/> <input type="email" name="email" className="text-cyan-400 w-80" required />
         </label>
       </p>
       <p>
         <label>
-          Your City:<br/> <input type="text" name="city" required />
+          Your City:<br/> <input type="text" name="city" className="text-cyan-400 w-80" required />
         </label>
       </p>
       <p>
         <label>
-          Your State:<br/> <input type="text" name="state" required />
+          Your State:<br/> <input type="text" name="state" className="text-cyan-400 w-80" required />
         </label>
       </p>
       <p>
