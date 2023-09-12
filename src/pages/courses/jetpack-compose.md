@@ -162,7 +162,7 @@ imgAlt: 'Image post 2'
 - Create a complex App (Spotify/Youtube/Netflix/Twitter clone) with Jetpack Compose, using best practices learned
   throughout the course. Guided by me (Rivu Chakraborty)
 
-## Optional Extras (paid extra ₹4000) - Week 15 and 16
+## Optional Extras (paid extra ₹5000) - Week 15 and 16
 
 - Server-Driven-UI with Jetpack Compose, both backend and frontend covered
 - Compose Multiplatform (will cover the below ones as well)
