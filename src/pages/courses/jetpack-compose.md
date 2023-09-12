@@ -153,5 +153,5 @@ imgAlt: 'Image post 2'
   - Optimising composables to display Inside RecyclerView
 
 ### Looks good? Enroll now. First Batch starting in October.
-
+<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_Mayk0OVkneiF1B" async> </script> </form>
 
