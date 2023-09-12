@@ -1,10 +1,10 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: TBD
+title: Learn Kotlin Language
 description: TBD
 pubDate: 2020-02-05T00:00:00Z
-imgSrc: '/assets/images/image-post2.jpeg'
+imgSrc: '/assets/images/compose.jpg'
 imgAlt: 'Image post 2'
 ---
-
-TBD
+# Kotlin Language Bridge Course
+## TBD

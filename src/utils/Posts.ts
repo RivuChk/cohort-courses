@@ -4,9 +4,11 @@ import type {
 } from 'astro-boilerplate-components';
 
 export const sortByDate = (posts: MarkdownInstance<IFrontmatter>[]) => {
-  return posts.sort(
-    (a, b) =>
-      new Date(b.frontmatter.pubDate).valueOf() -
-      new Date(a.frontmatter.pubDate).valueOf()
-  );
+  return posts
+    .filter((value) => value.frontmatter.title.length > 3)
+    .sort(
+      (a, b) =>
+        new Date(b.frontmatter.pubDate).valueOf() -
+        new Date(a.frontmatter.pubDate).valueOf()
+    );
 };

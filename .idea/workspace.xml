@@ -6,7 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="980c47d1-1c2b-4eff-b0df-dfc807ff0bce" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/CourseCommonHeader.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/CourseCommonHeader.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses/[...page].astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/courses/[...page].astro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses/fifth-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses/first-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses/forth-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses/hello-world.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses/jetpack-compose.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/courses/jetpack-compose.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses/second-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses/sixth-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses/third-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/partials/CourseList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/CourseList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/Posts.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/Posts.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +55,8 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/pages/courses" />
-      <recent name="$PROJECT_DIR$/src/pages/posts" />
       <recent name="$PROJECT_DIR$/public/assets/images" />
+      <recent name="$PROJECT_DIR$/src/pages/posts" />
       <recent name="$PROJECT_DIR$/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -76,7 +86,7 @@
       <updated>1694400396878</updated>
       <workItem from="1694400398012" duration="7910000" />
       <workItem from="1694410908166" duration="625000" />
-      <workItem from="1694411545873" duration="12356000" />
+      <workItem from="1694411545873" duration="14733000" />
     </task>
     <servers />
   </component>

@@ -20,7 +20,7 @@ const CourseList = () => (
         description="Learn and Master Jetpack Compose from someone who has been using and experimenting with it since the announcement. I was the first person outside Google to blog about Jetpack Compose. This course starts with basics of Jetpack Compose, and by the end of this course one should be able to call themselves an expert in Compose"
         link="/courses/jetpack-compose/"
         img={{
-          src: '/assets/images/project-web-design.png',
+          src: '/assets/images/compose.jpg',
           alt: 'Master Jetpack Compose',
         }}
         category={

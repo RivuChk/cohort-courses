@@ -14,6 +14,7 @@ import { CTA } from '@/partials/CTA';
 import Base from '@/templates/Base.astro';
 import { AppConfig } from '@/utils/AppConfig';
 import { CourseCommonHeader } from '@/templates/CourseCommonHeader';
+import { sortByDate } from '../../utils/Posts';
 
 type GetStaticPaths = {
   paginate: any;
@@ -23,7 +24,7 @@ export async function getStaticPaths({ paginate }: GetStaticPaths) {
   const allPosts = await Astro.glob<IFrontmatter>('./*.md');
 
   // Return a paginated collection of paths for all posts
-  return paginate(allPosts, { pageSize: 10 });
+  return paginate(sortByDate(allPosts), { pageSize: 10 });
 }
 
 interface Props {
