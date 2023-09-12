@@ -4,6 +4,7 @@ import type { ReactNode } from 'react';
 
 import { CourseCommonHeader } from '@/templates/CourseCommonHeader';
 import { AppConfig } from '@/utils/AppConfig';
+import { CourseRegistration } from '@/partials/CourseRegistration';
 
 type IBlogPostProps = {
   frontmatter: IFrontmatter;
@@ -15,6 +16,7 @@ const BlogPost = (props: IBlogPostProps) => (
     <PostHeader content={props.frontmatter} author={AppConfig.author} />
     <CourseCommonHeader />
     <PostContent content={props.frontmatter}>{props.children}</PostContent>
+    <CourseRegistration props={props.frontmatter} />
   </Section>
 );
 
