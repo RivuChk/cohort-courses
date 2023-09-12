@@ -27,7 +27,20 @@ const CourseRegistration = (props: IFrontmatter) => (
       <p>
         <label>
           Number of Years Experience:{' '}<br/>
-          <input type="number" name="yoe" required />
+          <input type="number" name="yoe" className="text-cyan-400 w-80" required />
+        </label>
+      </p>
+      <input
+        type="phone"
+        id="phone"
+        className="text-cyan-400 w-80"
+        name="courseName"
+        value={props.title}
+      />
+ <p>
+        <label>
+          Phone Number:{' '}<br/>
+          <input type="tel" name="yoe" className="text-cyan-400 w-80" required />
         </label>
       </p>
       <input
