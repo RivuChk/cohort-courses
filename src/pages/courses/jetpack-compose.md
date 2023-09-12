@@ -139,7 +139,7 @@ imgAlt: 'Image post 2'
 ## Week 13 - Bringing it all Together
 - Create a complex App (Spotify/Youtube/Netflix/Twitter clone) with Jetpack Compose, using best practices learned throughout the course. Guided by me (Rivu Chakraborty)
 
-## Optional Extras (paid extra) - Week 15 and 16
+## Optional Extras (paid extra ₹4000) - Week 15 and 16
 - Server-Driven-UI with Jetpack Compose, both backend and frontend covered
 - Compose Multiplatform (will cover the below ones as well)
 - Compose for Desktop
@@ -153,5 +153,7 @@ imgAlt: 'Image post 2'
   - Optimising composables to display Inside RecyclerView
 
 ### Looks good? Enroll now. First Batch starting in October.
-<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_Mayk0OVkneiF1B" async> </script> </form>
+Course Fees ₹25000 /- + Optional Additional Week.
+Please contact me at rivu@rivu.dev for payment information
+
 
