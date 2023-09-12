@@ -34,7 +34,7 @@ const CourseRegistration = (props: IFrontmatter) => (
  <p>
         <label>
           Phone Number:{' '}<br/>
-          <input type="tel" name="yoe" className="text-cyan-400 w-80" required />
+          <input type="tel" name="monile" className="text-cyan-400 w-80" required />
         </label>
       </p>
       <input
