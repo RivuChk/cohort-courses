@@ -4,11 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="980c47d1-1c2b-4eff-b0df-dfc807ff0bce" name="Changes" comment="" />
+    <list default="true" id="980c47d1-1c2b-4eff-b0df-dfc807ff0bce" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/astro.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/astro.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses/[...page].astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/courses/[...page].astro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses/jetpack-compose.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/courses/jetpack-compose.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/posts/[...page].astro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/posts/fifth-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/posts/first-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/posts/forth-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/posts/hello-world.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/posts/second-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/posts/sixth-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/posts/third-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/partials/BlogPost.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/BlogPost.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/partials/RecentPosts.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/Base.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/Base.astro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/BasePost.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/BasePost.astro" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,6 +64,22 @@
       <recent name="$PROJECT_DIR$/public/assets/images" />
       <recent name="$PROJECT_DIR$/public" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -49,7 +90,8 @@
       <option name="presentableId" value="Default" />
       <updated>1694400396878</updated>
       <workItem from="1694400398012" duration="7910000" />
-      <workItem from="1694410908166" duration="305000" />
+      <workItem from="1694410908166" duration="625000" />
+      <workItem from="1694411545873" duration="11123000" />
     </task>
     <servers />
   </component>

@@ -13,6 +13,7 @@ import {
 import { CTA } from '@/partials/CTA';
 import Base from '@/templates/Base.astro';
 import { AppConfig } from '@/utils/AppConfig';
+import { CourseCommonHeader } from '@/templates/CourseCommonHeader';
 
 type GetStaticPaths = {
   paginate: any;
@@ -41,8 +42,9 @@ const description =
   <Section>
     <PaginationHeader
       title='Courses by Rivu Chakraborty'
-      description='//TODO'
+
     />
+    <CourseCommonHeader />
   </Section>
 
   <Section>
