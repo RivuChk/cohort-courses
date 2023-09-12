@@ -11,6 +11,10 @@ const CourseCommonHeader = () => (
         <li>Open forums and interaction with the cohort</li>
         <li>Doubt resolution during and post live sessions</li>
         <li>Language of communication will be strictly english</li>
+        <li>
+          Courses are not focused towards interview preparation, rather it's
+          focused on having in depth understanding of tech{' '}
+        </li>
       </ul>
     </div>
   </Section>
