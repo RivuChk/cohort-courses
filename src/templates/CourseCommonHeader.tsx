@@ -4,7 +4,7 @@ const CourseCommonHeader = () => (
   <Section>
     <div>
       <ul className="list-inside list-disc">
-        <li>40+ hours of Live Classes on Weekends IST</li>
+        <li>3+ hours of Live Classes on Each Weekends (IST) for the Duration of the Course</li>
         <li>1:1 Mentorship Sessions every other week</li>
         <li>Lifetime access to the cohort recordings</li>
         <li>Lifetime access to the Network and Community</li>
