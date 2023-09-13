@@ -16,7 +16,7 @@ const BlogPost = (props: IBlogPostProps) => (
     <PostHeader content={props.frontmatter} author={AppConfig.author} />
     <CourseCommonHeader />
     <PostContent content={props.frontmatter}>{props.children}</PostContent>
-    <CourseRegistration title={props.frontmatter.title.valueOf()} />
+    <CourseRegistration />
   </Section>
 );
 

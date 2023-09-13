@@ -1,6 +1,6 @@
 import { Section } from 'astro-boilerplate-components';
 
-const CourseRegistration = (title: string) => (
+const CourseRegistration = () => (
   <Section>
     <form
       name="register-compose"
@@ -123,7 +123,46 @@ const CourseRegistration = (title: string) => (
           />
         </div>
       </div>
-      <input type="hidden" id="courseName" name="courseName" value={title.toString()} />
+      <div className="mb-6 md:flex md:items-center">
+        <div className="md:w-1/3">
+          <label
+            className="mb-2 block text-sm font-bold text-gray-300"
+            htmlFor="courseName"
+          >
+            Course:
+          </label>
+        </div>
+        <div className="relative inline-block w-64 md:w-2/3">
+          <select
+            id="courseName"
+            name="courseName"
+            required
+            placeholder="Select The Course You are interested in"
+            className="focus:shadow-outline focus:border-purple-500 block w-full appearance-none rounded border border-gray-400 bg-white px-4 py-2 pr-8 leading-tight text-gray-700 shadow hover:border-purple-500 focus:outline-none"
+          >
+            <option selected disabled hidden value="">
+              Select The Course You are interested in
+            </option>
+            <option>Jetpack Compose with Additional Weeks</option>
+            <option>Jetpack Compose without Additional Weeks</option>
+            <option>Jetpack Compose without Additional Weeks</option>
+            <option>Kotlin Language</option>
+            <option>Kotlin Multiplatform</option>
+            <option>Backend Development with Ktor</option>
+            <option>Advanced Android Development</option>
+            <option>Android Development Basics</option>
+          </select>
+          <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700">
+            <svg
+              className="h-4 w-4 fill-current"
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 20 20"
+            >
+              <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+            </svg>
+          </div>
+        </div>
+      </div>
       <div className="md:flex md:items-center">
         <div className="md:w-1/3"></div>
         <div className="md:w-2/3">
