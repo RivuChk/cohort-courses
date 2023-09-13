@@ -33,59 +33,63 @@ const CourseList = () => (
       />
       <Project
         name="Learn Kotlin Language"
-        description="jkncdjknwdjkcn"
-        link="/"
-        img={{ src: '/assets/images/project-fire.png', alt: 'Project Fire' }}
+        description="Learn Kotlin from India's first GDE (Google Developer Expert) for Kotlin, and author of 3 Kotlin Books."
+        link="/courses/kotlin-lang/"
+        img={{ src: '/assets/images/code.jpeg', alt: 'Kotlin' }}
         category={
           <>
-            <Tags color={ColorTags.VIOLET}>Next.js</Tags>
-            <Tags color={ColorTags.EMERALD}>Blog</Tags>
-            <Tags color={ColorTags.YELLOW}>JavaScript</Tags>
+            <Tags color={ColorTags.FUCHSIA}>Kotlin</Tags>
           </>
         }
       />
       <Project
         name="Master Kotlin Multiplatform"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-        bibendum. Nunc non posuere consectetur, justo erat semper enim, non
-        hendrerit dui odio id enim."
-        link="/"
-        img={{ src: '/assets/images/project-maps.png', alt: 'Project Maps' }}
+        description="Learn and Master Kotlin Multiplatform. Will discuss optimisations, interoperability, architecture and system design, db, vraeting SDKs and a lot more"
+        link="/courses/kmp/"
+        img={{ src: '/assets/images/devices.png', alt: 'KMP' }}
         category={
           <>
-            <Tags color={ColorTags.FUCHSIA}>Astro.js</Tags>
-            <Tags color={ColorTags.INDIGO}>Bootstrap</Tags>
-            <Tags color={ColorTags.ROSE}>TypeScript</Tags>
+            <Tags color={ColorTags.FUCHSIA}>Kotlin</Tags>
+            <Tags color={ColorTags.INDIGO}>iOS</Tags>
+            <Tags color={ColorTags.ROSE}>Web</Tags>
+            <Tags color={ColorTags.SKY}>Android</Tags>
+            <Tags color={ColorTags.EMERALD}>React</Tags>
+          </>
+        }
+      />
+      <Project
+        name="Learn and Master Ktor for Backend"
+        description="To be announced"
+        link="/"
+        img={{ src: '/assets/images/code.jpeg', alt: 'Ktor' }}
+        category={
+          <>
+            <Tags color={ColorTags.FUCHSIA}>Kotlin</Tags>
+            <Tags color={ColorTags.INDIGO}>Ktor</Tags>
           </>
         }
       />
       <Project
         name="Learn Android Development Basics"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-        bibendum. Nunc non posuere consectetur, justo erat semper enim, non
-        hendrerit dui odio id enim."
+        description="To be announced"
         link="/"
-        img={{ src: '/assets/images/project-maps.png', alt: 'Project Maps' }}
+        img={{ src: '/assets/images/code.jpeg', alt: 'Android' }}
         category={
           <>
-            <Tags color={ColorTags.FUCHSIA}>Astro.js</Tags>
-            <Tags color={ColorTags.INDIGO}>Bootstrap</Tags>
-            <Tags color={ColorTags.ROSE}>TypeScript</Tags>
+            <Tags color={ColorTags.FUCHSIA}>Kotlin</Tags>
+            <Tags color={ColorTags.ROSE}>Android</Tags>
           </>
         }
       />
       <Project
         name="Master Android Apps Development"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-        bibendum. Nunc non posuere consectetur, justo erat semper enim, non
-        hendrerit dui odio id enim."
+        description="To be announced"
         link="/"
-        img={{ src: '/assets/images/project-maps.png', alt: 'Project Maps' }}
+        img={{ src: '/assets/images/code.jpeg', alt: 'Android' }}
         category={
           <>
-            <Tags color={ColorTags.FUCHSIA}>Astro.js</Tags>
-            <Tags color={ColorTags.INDIGO}>Bootstrap</Tags>
-            <Tags color={ColorTags.ROSE}>TypeScript</Tags>
+            <Tags color={ColorTags.FUCHSIA}>Kotlin</Tags>
+            <Tags color={ColorTags.INDIGO}>Android</Tags>
           </>
         }
       />
