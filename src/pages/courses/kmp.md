@@ -92,7 +92,7 @@ If you're new to Kotlin, I'd recommend buying this course along with the [Kotlin
 * Joins
 * Grouping Statements
 
-## Week 7 - Architecture and Testing
+## Week 7 & 8 - Architecture, System Design and Testing
 
 * Introduction to clean architecture
 * Unidirectional data flow / UDF
@@ -100,6 +100,7 @@ If you're new to Kotlin, I'd recommend buying this course along with the [Kotlin
 * ViewModel
 * Writing unit tests
 * Following TDD with KMP
+* System Design - LLD and HLD
 
 
 ## Week 8 - Creating SDKs with KMP
