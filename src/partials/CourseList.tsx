@@ -61,7 +61,7 @@ const CourseList = () => (
         name="Learn and Master Ktor for Backend"
         description="To be announced"
         link="/"
-        img={{ src: '/assets/images/code.jpeg', alt: 'Ktor' }}
+        img={{ src: '/assets/images/programmer.png', alt: 'Ktor' }}
         category={
           <>
             <Tags color={ColorTags.FUCHSIA}>Kotlin</Tags>
@@ -73,7 +73,7 @@ const CourseList = () => (
         name="Learn Android Development Basics"
         description="To be announced"
         link="/"
-        img={{ src: '/assets/images/code.jpeg', alt: 'Android' }}
+        img={{ src: '/assets/images/programmer.png', alt: 'Android' }}
         category={
           <>
             <Tags color={ColorTags.FUCHSIA}>Kotlin</Tags>
@@ -85,7 +85,7 @@ const CourseList = () => (
         name="Master Android Apps Development"
         description="To be announced"
         link="/"
-        img={{ src: '/assets/images/code.jpeg', alt: 'Android' }}
+        img={{ src: '/assets/images/programmer.png', alt: 'Android' }}
         category={
           <>
             <Tags color={ColorTags.FUCHSIA}>Kotlin</Tags>

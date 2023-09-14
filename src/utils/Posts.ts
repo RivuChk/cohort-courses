@@ -8,7 +8,7 @@ export const sortByDate = (posts: MarkdownInstance<IFrontmatter>[]) => {
     .filter((value) => value.frontmatter.title.length > 3)
     .sort(
       (a, b) =>
-        new Date(b.frontmatter.pubDate).valueOf() -
-        new Date(a.frontmatter.pubDate).valueOf()
+        new Date(a.frontmatter.pubDate).valueOf() -
+        new Date(b.frontmatter.pubDate).valueOf()
     );
 };

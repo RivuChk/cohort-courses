@@ -5,7 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="980c47d1-1c2b-4eff-b0df-dfc807ff0bce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/assets/images/GooglePay_QR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/programmer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses/[...page].astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/courses/[...page].astro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses/android-advanced.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/courses/android-advanced.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses/android-basics.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/courses/android-basics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses/jetpack-compose.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/courses/jetpack-compose.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/courses/kmp.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/courses/kmp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses/kotlin-lang.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/courses/kotlin-lang.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses/ktor.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/courses/ktor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.astro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/posts/[...page].astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/posts/[...page].astro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/partials/BlogPost.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/BlogPost.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/partials/CourseList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/CourseList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/partials/CourseRegistration.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/CourseRegistration.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/partials/Hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/Hero.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/BasePost.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/BasePost.astro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/Posts.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/Posts.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

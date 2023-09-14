@@ -5,7 +5,7 @@ description: For any developers willing to learn Kotlin Multiplatform, to be abl
   Developers would be required to be proficient with Kotlin. They’d be given a Kotlin quiz at the time of joining the course, failing which they’d be required to take the Kotlin Language course before starting this course. 
   If you're new to Kotlin, I'd recommend buying this course along with the Kotlin Language one.
 
-pubDate: 2020-02-05T00:00:00Z
+pubDate: 2023-10-05T00:00:00Z
 imgSrc: '/assets/images/devices.png'
 imgAlt: 'Image post 2'
 ---
@@ -121,7 +121,6 @@ If you're new to Kotlin, I'd recommend buying this course along with the [Kotlin
 * Basics of React js
 * Performance Measuring and Optimisations
 
-### Looks good? Enroll now. First Batch starting in October.
+## Course Fees
 
-Course Fees ₹20000 /- Discount will be given to people buying this course along with the [Kotlin Language one](/courses/kotlin-lang/)
-Please fill this form, and I'll get back to you with payment information.
+### ₹20,000 /- Discount will be given to people buying this course along with the [Kotlin Language one](/courses/kotlin-lang/)

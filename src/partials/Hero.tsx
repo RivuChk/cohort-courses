@@ -50,6 +50,12 @@ const Hero = () => (
             <li> Ex: Android Architect @ Paytm (Chat, Movies, Insider) </li>
             <li> Ex: Senior Software Engineer @ Byju's </li>
           </ul>
+          <br />I have worked with Service-Based, Product-Based, EdTech,
+          FinTech, Ecommerce, SuperApp, Transport, Media and Entertainment,
+          virtually almost all sectors of tech startups possible. Learned a lot
+          from these experiences in last ~12 years, and want to share the
+          knowledge, same reason I do talks at conferences, wrote and published
+          books, and now creating cohort based courses.
         </>
       }
       avatar={

@@ -2,7 +2,7 @@
 layout: '@/templates/BasePost.astro'
 title: Master Jetpack Compose | Beginner to Advanced
 description: This course is for Android Developers, with a fair understanding of Android basics,  Architecture patterns, etc. We’ll start with an introduction to Jetpack Compose, and how to use it, and slowly we’ll move on to the advanced stuff, and learn the internal workings of Jetpack Compose, and performance optimizations. We’ll do theoretical as well as hands-on.
-pubDate: 2020-02-05T00:00:00Z
+pubDate: 2023-10-05T00:00:00Z
 imgSrc: '/assets/images/compose.jpg'
 imgAlt: 'Image post 2'
 ---
@@ -177,10 +177,9 @@ This course is for Android Developers, with a fair understanding of Android basi
     - Migrating design system from XML to Compose
     - Optimising composables to display Inside RecyclerView
 
-### Looks good? Enroll now. First Batch starting in October.
+## Course Fees
 
-Course Fees ₹25000 /- + Optional Additional Week.
-Please fill this form, and I'll get back to you with payment information.
+## ₹25,000 /- + Optional Additional Week (₹5000).
 
 
 

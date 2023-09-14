@@ -2,7 +2,7 @@
 layout: '@/templates/BasePost.astro'
 title: Learn Kotlin Language
 description: This course is for any developers willing to learn Kotlin. This course is a mandatory requirement for the Kotlin Multiplatform Course and the Ktor course, for developers who have less than 1 years experience in Kotlin. Not required for people with a good understanding of Kotlin.
-pubDate: 2020-02-05T00:00:00Z
+pubDate: 2023-10-05T00:00:00Z
 imgSrc: '/assets/images/code.jpeg'
 imgAlt: 'Image post 2'
 ---
@@ -89,7 +89,6 @@ This course is for any developers willing to learn Kotlin. This course is a mand
 
 * Creating a command line app with Kotlin, following TDD and using everything we learned in this course
 
-### Looks good? Enroll now. First Batch starting in October.
+## Course Fees
 
-Course Fees ₹10000 /-
-Please fill this form, and I'll get back to you with payment information.
+### ₹10,000 /-
