@@ -123,5 +123,5 @@ If you're new to Kotlin, I'd recommend buying this course along with the [Kotlin
 
 ### Looks good? Enroll now. First Batch starting in October.
 
-Course Fees ₹20000 /- Discount of ₹5000 will be given to people buying this course along with the [Kotlin Language one](/courses/kotlin-lang/)
+Course Fees ₹20000 /- Discount will be given to people buying this course along with the [Kotlin Language one](/courses/kotlin-lang/)
 Please fill this form, and I'll get back to you with payment information.
