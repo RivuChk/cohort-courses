@@ -179,7 +179,8 @@ This course is for Android Developers, with a fair understanding of Android basi
 
 ## Course Fees
 
-## ₹25,000 /- + Optional Additional Week (₹5000). Additional weeks **can** be purchased later, without any price hikes if you decide to go for without additional weeks for now.
+## ₹25,000 /- + Optional Additional Week (₹5000).
+Additional weeks **can** be purchased later, without any price hikes if you decide to go for without additional weeks for now.
 
 
 
