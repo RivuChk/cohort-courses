@@ -188,9 +188,9 @@ const CourseRegistration = () => (
                 <option>Jetpack Compose without Additional Weeks</option>
                 <option>Kotlin Language</option>
                 <option>Kotlin Multiplatform</option>
-                <option>Backend Development with Ktor</option>
-                <option>Advanced Android Development</option>
-                <option>Android Development Basics</option>
+                <option disabled>Backend Development with Ktor</option>
+                <option disabled>Advanced Android Development</option>
+                <option disabled>Android Development Basics</option>
               </select>
               <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700">
                 <svg
