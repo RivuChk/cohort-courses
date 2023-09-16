@@ -123,4 +123,5 @@ If you're new to Kotlin, I'd recommend buying this course along with the [Kotlin
 
 ## Course Fees
 
-### ₹20,000 /- Discount will be given to people buying this course along with the [Kotlin Language one](/courses/kotlin-lang/)
+### ₹20,000 /- A little Cashback will be given to people buying this course along with the [Kotlin Language one](/courses/kotlin-lang/)
+In such cases, I'll send them the cashback through UPI after one month of the course.
