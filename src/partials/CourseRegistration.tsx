@@ -162,6 +162,24 @@ const CourseRegistration = () => (
               />
             </div>
           </div>
+          <div className="mb-6 md:flex md:items-center">
+            <div className="md:w-1/3">
+              <label
+                className="mb-2 block text-sm font-bold text-gray-300"
+                htmlFor="ref"
+              >
+                Reference From:
+              </label>
+            </div>
+            <div className="md:w-2/3">
+              <input
+                type="text"
+                name="ref"
+                id="ref"
+                className="w-full appearance-none rounded border-2 border-gray-200 bg-gray-200 py-2 px-4 leading-tight text-gray-700 focus:border-purple-500 focus:bg-white focus:outline-none"
+              />
+            </div>
+          </div>
 
           <div className="mb-6 md:flex md:items-center">
             <div className="md:w-1/3">
