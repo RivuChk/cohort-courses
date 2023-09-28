@@ -6,7 +6,9 @@ pubDate: 2023-10-05T00:00:00Z
 imgSrc: '/assets/images/compose.jpg'
 imgAlt: 'Image post 2'
 ---
-This course is for Android Developers, with a fair understanding of Android basics,  Architecture patterns, etc. We’ll start with an introduction to Jetpack Compose, and how to use it, and slowly we’ll move on to the advanced stuff, and learn the internal workings of Jetpack Compose, and performance optimizations. We’ll do theoretical as well as hands-on.
+### For this course, registration Closes on 28th September. Classes start on 8th October, 2023. [Register now](#course-fees).
+
+This course is for Android Developers, with a fair understanding of Android basics,  Architecture patterns, etc. We’ll start with an introduction to Jetpack Compose, and how to use it, and slowly we’ll move on to the advanced stuff, and learn the internal workings of Jetpack Compose, and performance optimizations. We’ll do theoretical as well as hands-on. Below is the content we'll cover in this course, divided in week by week basis.
 
 ## Week 1 - Getting Started
 
