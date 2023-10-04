@@ -201,8 +201,8 @@ const CourseRegistration = () => (
                 <option selected disabled hidden value="">
                   Select The Course You are interested in
                 </option>
-                <option disabled>Jetpack Compose with Additional Weeks</option>
-                <option disabled>Jetpack Compose without Additional Weeks</option>
+                <option>Jetpack Compose with Additional Weeks</option>
+                <option>Jetpack Compose without Additional Weeks</option>
                 <option>Kotlin Language</option>
                 <option>Kotlin Multiplatform</option>
                 <option disabled>Backend Development with Ktor</option>
