@@ -203,7 +203,7 @@ const CourseRegistration = () => (
                 </option>
                 <option>Jetpack Compose with Additional Weeks</option>
                 <option>Jetpack Compose without Additional Weeks</option>
-                <option>Kotlin Language</option>
+                <option disabled>Kotlin Language</option>
                 <option>Kotlin Multiplatform</option>
                 <option disabled>Backend Development with Ktor</option>
                 <option disabled>Advanced Android Development</option>
