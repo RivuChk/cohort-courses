@@ -6,6 +6,9 @@ pubDate: 2023-10-05T00:00:00Z
 imgSrc: '/assets/images/code.jpeg'
 imgAlt: 'Image post 2'
 ---
+
+### Class started and registration closed for this course. Registration will soon open for the next batch.
+
 This course is for any developers willing to learn Kotlin. This course is a mandatory requirement for the Kotlin Multiplatform Course and the Ktor course, for developers who have less than 1 years experience in Kotlin. Not required for people with a good understanding of Kotlin.
 
 ## Week 1 and 2 - Kotlin basics, Classes and Functions
